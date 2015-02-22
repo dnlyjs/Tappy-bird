@@ -10,6 +10,6 @@ public class k : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		// HI DANIEL
 	}
 }
