@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2d113b0d173e0412bad8d3846d0548f7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rocks: {fileID: 106090, guid: 7490bb625cda64a80af5392608e799c1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
