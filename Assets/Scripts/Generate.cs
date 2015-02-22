@@ -12,6 +12,7 @@ public class Generate : MonoBehaviour
 	}
 	
 	// Update is called once per frame
+	// Wasup Daniel
 	void OnGUI () 
 	{
 		GUI.color = Color.black;
